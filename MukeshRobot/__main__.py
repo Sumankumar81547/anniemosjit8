@@ -98,7 +98,7 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"https://t.me/roy_editx"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ", url=f"ROYAL_WORLD_84"),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
